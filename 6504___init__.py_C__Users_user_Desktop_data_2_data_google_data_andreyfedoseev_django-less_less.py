@@ -1,4 +1,0 @@
-
-
-class LessException(Exception):
-    pass
